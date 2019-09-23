@@ -264,10 +264,10 @@ BasicCalculator = function (_React$Component) {_inherits(BasicCalculator, _React
               React.createElement('button', { id: 'equals', className: 'btn calc-pad', onClick: this.handleEquals }, '='))),
 
 
-          React.createElement('div', { id: 'credit' }, 'Javascript Calculator By',
+          // React.createElement('div', { id: 'credit' }, 'Javascript Calculator By',
 
-            React.createElement('br', null),
-            React.createElement('a', { href: 'https://codepen.io/yoelvis', target: '_blank' }, 'Yoelvis Jimenez'))));
+          //   React.createElement('br', null),
+          //   React.createElement('a', { href: 'https://codepen.io/yoelvis', target: '_blank' }, 'Yoelvis Jimenez'))));
 
 
 
